@@ -1,0 +1,13 @@
+import { default_title } from '../utils/site-config';
+// Export all pages for convenient imports
+export { default as BestBots } from './best-bots';
+export { default as Dashboard } from './dashboard';
+export { default as BotBuilder } from './bot-builder';
+export { default as AutoTrades } from './auto-trades';
+export { default as ManualTrading } from './manual-trading';
+export { default as Scanner } from './scanner';
+export { default as Chart } from './chart';
+export { default as Analysistool } from './analysistool';
+export{ default as AutoBots} from './auto-bots'
+export{ default as ProScanner} from './pro-scanner'
+export{ default as DerivClass} from './deriv-class'
